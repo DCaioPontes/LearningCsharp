@@ -1,0 +1,15 @@
+C:\Users\caiop\RiderProjects\Temp2\Temp2\bin\Debug\net7.0\Temp2.exe
+C:\Users\caiop\RiderProjects\Temp2\Temp2\bin\Debug\net7.0\Temp2.deps.json
+C:\Users\caiop\RiderProjects\Temp2\Temp2\bin\Debug\net7.0\Temp2.runtimeconfig.json
+C:\Users\caiop\RiderProjects\Temp2\Temp2\bin\Debug\net7.0\Temp2.dll
+C:\Users\caiop\RiderProjects\Temp2\Temp2\bin\Debug\net7.0\Temp2.pdb
+C:\Users\caiop\RiderProjects\Temp2\Temp2\obj\Debug\net7.0\Temp2.csproj.AssemblyReference.cache
+C:\Users\caiop\RiderProjects\Temp2\Temp2\obj\Debug\net7.0\Temp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiop\RiderProjects\Temp2\Temp2\obj\Debug\net7.0\Temp2.AssemblyInfoInputs.cache
+C:\Users\caiop\RiderProjects\Temp2\Temp2\obj\Debug\net7.0\Temp2.AssemblyInfo.cs
+C:\Users\caiop\RiderProjects\Temp2\Temp2\obj\Debug\net7.0\Temp2.csproj.CoreCompileInputs.cache
+C:\Users\caiop\RiderProjects\Temp2\Temp2\obj\Debug\net7.0\Temp2.dll
+C:\Users\caiop\RiderProjects\Temp2\Temp2\obj\Debug\net7.0\refint\Temp2.dll
+C:\Users\caiop\RiderProjects\Temp2\Temp2\obj\Debug\net7.0\Temp2.pdb
+C:\Users\caiop\RiderProjects\Temp2\Temp2\obj\Debug\net7.0\Temp2.genruntimeconfig.cache
+C:\Users\caiop\RiderProjects\Temp2\Temp2\obj\Debug\net7.0\ref\Temp2.dll
